@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Mark-Book;
+  src: url(../src/fonts/MARKPRO.OTF);
+}
+.App {
+  text-align: center;
+  text-decoration: none;
+}
